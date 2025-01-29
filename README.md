@@ -1,4 +1,4 @@
-## Olá, sou desenvolvedor de jogos!
+## Olá, eu sou Marcos Sousa!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YakumaKuramy)](https://github.com/yakumakuramy/github-readme-stats)
 
 <div style="display: inline_block"><br>
