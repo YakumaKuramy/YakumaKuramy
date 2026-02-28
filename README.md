@@ -5,14 +5,19 @@
 🎮 Game dev entusiasta | 🎓 Redes de Computadores na UFC
 Criador de conteúdo sobre desenvolvimento de jogos com Godot.
 Compartilho meu conhecimento através do meu canal no YouTube "[Marcos Sousa](https://www.youtube.com/@Marcos-Sousa-IGD)"
-<!--
+
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
+  <a href="https://www.youtube.com/@Marcos-Sousa-IGD?sub_confirmation=1">
+    <img
+      alt="Inscreva-se no meu canal"
+      title="Inscreva-se no meu canal"
+      src="https://img.shields.io/badge/YouTube-Inscreva--se-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+    />
+  </a>
+</p>
+
+
+<!--
     </a>
     <a href="https://www.youtube.com/@larissakich">
         <img 
