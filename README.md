@@ -2,8 +2,8 @@
 
 **`Desenvolvedor de Jogos`**
 
-🎮 Game dev entusiasta | 🎓 Redes de Computadores na UFC
-Criador de conteúdo sobre desenvolvimento de jogos com Godot.
+🎮 Game dev entusiasta | 🎓 Redes de Computadores na UFC <br>
+Criador de conteúdo sobre desenvolvimento de jogos com Godot. <br>
 Compartilho meu conhecimento através do meu canal no YouTube "[Marcos Sousa](https://www.youtube.com/@Marcos-Sousa-IGD)"
 
 <p align="left">
@@ -14,34 +14,25 @@ Compartilho meu conhecimento através do meu canal no YouTube "[Marcos Sousa](ht
       src="https://img.shields.io/badge/YouTube-Inscreva--se-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
     />
   </a>
-</p>
 
+  <a href="https://github.com/YakumaKuramy?tab=repositories&sort=stargazers">
+    <img 
+      alt="Total de estrelas" 
+      title="Total de estrelas GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/stars/YakumaKuramy?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+    />
+  </a>
+
+  <a href="https://github.com/YakumaKuramy?tab=followers">
+    <img 
+      alt="Seguidores" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/YakumaKuramy?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
+</p>
 
 <!--
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
