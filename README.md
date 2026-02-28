@@ -13,6 +13,8 @@ Compartilho meu conhecimento através do meu canal no YouTube [Marcos Sousa](htt
     title="Jogue meus jogos no itch.io"
     src="https://img.shields.io/badge/itch.io-Jogue%20meus%20jogos-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"
   />
+
+<!-- 
 </a>
   <a href="https://www.youtube.com/@Marcos-Sousa-IGD?sub_confirmation=1">
     <img
@@ -38,7 +40,7 @@ Compartilho meu conhecimento através do meu canal no YouTube [Marcos Sousa](htt
     />
   </a>
 </p>
-
+-->
 ---
 
 
