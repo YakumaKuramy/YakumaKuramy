@@ -7,6 +7,13 @@ Criador de conteúdo sobre desenvolvimento de jogos com Godot. <br>
 Compartilho meu conhecimento através do meu canal no YouTube [Marcos Sousa](https://www.youtube.com/@Marcos-Sousa-IGD)
 
 <p align="left">
+  <a href="https://marcossousa.itch.io/">
+  <img
+    alt="Jogue meus jogos no itch.io"
+    title="Jogue meus jogos no itch.io"
+    src="https://img.shields.io/badge/itch.io-Jogue%20meus%20jogos-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"
+  />
+</a>
   <a href="https://www.youtube.com/@Marcos-Sousa-IGD?sub_confirmation=1">
     <img
       alt="Inscreva-se no meu canal"
