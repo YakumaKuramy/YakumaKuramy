@@ -104,15 +104,6 @@ Compartilho meu conhecimento através do meu canal no YouTube [Marcos Sousa](htt
 <br/>
 <br/>
 
-
-## ⏱️ WakaTime — Tempo de Código
-
-<div align="center">
-
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Marcos_Sousa&theme=tokyonight)
-
-</div>
-
 ### 📊 Estatísticas
 
 <p align="center">
