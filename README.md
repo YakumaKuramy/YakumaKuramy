@@ -4,7 +4,7 @@
 
 🎮 Game dev entusiasta | 🎓 Redes de Computadores na UFC <br>
 Criador de conteúdo sobre desenvolvimento de jogos com Godot. <br>
-Compartilho meu conhecimento através do meu canal no YouTube "[Marcos Sousa](https://www.youtube.com/@Marcos-Sousa-IGD)"
+Compartilho meu conhecimento através do meu canal no YouTube [Marcos Sousa](https://www.youtube.com/@Marcos-Sousa-IGD)
 
 <p align="left">
   <a href="https://www.youtube.com/@Marcos-Sousa-IGD?sub_confirmation=1">
@@ -106,7 +106,17 @@ Compartilho meu conhecimento através do meu canal no YouTube "[Marcos Sousa](ht
 
 ### 📊 Estatísticas
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YakumaKuramy&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YakumaKuramy&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YakumaKuramy&theme=tokyonight" />
+</p>
+
+
+<!--  
 <p>
   <img 
     align="left" 
@@ -126,4 +136,4 @@ Compartilho meu conhecimento através do meu canal no YouTube "[Marcos Sousa](ht
 
 
 </p>
-<!--  -->
+-->
