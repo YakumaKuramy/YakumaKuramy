@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,go,rust,nestjs,py,aws" height="50" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,go,rust,nestjs,py,aws" height="60" alt="tech stack" />
 </div>
 
 <br/>
@@ -17,8 +17,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YakumaKuramy&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YakumaKuramy&layout=compact&theme=dracula&hide_border=false" height="150" />
+  <img src="https://streak-stats.demolab.com?user=YakumaKuramy&theme=dracula&hide_border=false" height="150" alt="streak graph" />
 </div>
 
 <br/>
