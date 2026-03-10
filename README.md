@@ -13,10 +13,10 @@
 </div>
 
 <div align="center">
-  <a href="https://marcos-sousa.itch.io/">
+  <a href="https://marcossousa.itch.io/">
     <img src="https://img.shields.io/static/v1?message=Itch.io&logo=itch.io&label=&color=FA5C5C&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/marcos-sousa-ufc">
+  <a href="https://www.linkedin.com/in/marcos-sousa-santos/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
@@ -34,7 +34,7 @@
 <h3 align="center">🤖 Linguagens e Tecnologias</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,github,graphql,go,rust,nestjs,py,aws,godot,cpp" height="50" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,godot,unity,py,cpp" height="50" />
 </div>
 
 <br/>
