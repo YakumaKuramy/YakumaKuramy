@@ -9,16 +9,24 @@
 
 <div align="center">
   <p>🎮 <b>Desenvolvedor de Jogos e Criador de Conteúdo</b></p>
-  <p>Focado em simplificar o desenvolvimento de jogos com <b>Godot Engine</b>. Compartilho conhecimento técnico e bastidores da criação de games no meu canal no YouTube.</p>
+  <p>Estudante de Redes de Computadores na <b>UFC</b> e entusiasta de desenvolvimento de jogos com <b>Godot Engine</b>.</p>
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/@SEU_CANAL_AQUI">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  <a href="https://marcos-sousa.itch.io/">
+    <img src="https://img.shields.io/static/v1?message=Itch.io&logo=itch.io&label=&color=FA5C5C&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/marcos-sousa-ufc">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
+</div>
+
+<br/>
+
+<h3 align="center">📊 Minha Atividade Semanal (WakaTime)</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcos_Sousa&layout=compact&theme=dracula&v=2" alt="Wakatime Stats" />
 </div>
 
 <br/>
@@ -26,18 +34,12 @@
 <h3 align="center">🤖 Linguagens e Tecnologias</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,aws,godot,unity,py,cpp" height="50" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,github,graphql,go,rust,nestjs,py,aws,godot,cpp" height="50" />
 </div>
 
 <br/>
 
-<h3 align="center">📊 Estatísticas e Atividade</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YakumaKuramy&theme=dracula&hide_border=false" height="150" alt="streak graph" />
-</div>
-
-<br/>
+<h3 align="center">🐍 Contribuições</h3>
 
 <div align="center">
   <picture>
