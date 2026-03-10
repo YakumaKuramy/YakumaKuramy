@@ -18,15 +18,15 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=YakumaKuramy&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=YakumaKuramy&theme=dracula&no-bg=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YakumaKuramy&layout=compact&theme=dracula&hide_border=false" height="150" />
 </div>
 
 <br/>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YakumaKuramy/YakumaKuramy/output/pacman-contribution-graph-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YakumaKuramy/YakumaKuramy/output/pacman-contribution-graph.svg?v=1">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YakumaKuramy/YakumaKuramy/output/pacman-contribution-graph.svg?v=1">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YakumaKuramy/YakumaKuramy/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YakumaKuramy/YakumaKuramy/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YakumaKuramy/YakumaKuramy/output/pacman-contribution-graph.svg">
   </picture>
 </div>
