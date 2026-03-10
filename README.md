@@ -27,14 +27,11 @@
 
 <br/>
 
-<!--
-<h3 align="center">📊 Minha Atividade Semanal (WakaTime)</h3>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcos_Sousa&layout=compact&theme=dracula&v=4" alt="Wakatime Stats" />
+  <img src="https://streak-stats.demolab.com?user=YakumaKuramy&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
 </div>
+
 <br/>
--->
 
 <h3 align="center">🤖 Linguagens e Tecnologias</h3>
 
