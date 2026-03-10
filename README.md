@@ -1,20 +1,37 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hey 👋 Marcos Sousa aqui!</h1>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,go,rust,nestjs,py,aws" height="60" alt="tech stack" />
+  <img src="https://img.shields.io/badge/-Game%20Dev%20Enthusiast-orange?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/-UFC%20Redes%20de%20Computadores-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="25" />
+  <p>🎮 <b>Desenvolvedor de Jogos e Criador de Conteúdo</b></p>
+  <p>Focado em simplificar o desenvolvimento de jogos com <b>Godot Engine</b>. Compartilho conhecimento técnico e bastidores da criação de games no meu canal no YouTube.</p>
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/@SEU_CANAL_AQUI">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
 </div>
 
 <br/>
+
+<h3 align="center">🤖 Linguagens e Tecnologias</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,aws,godot,unity,py,cpp" height="50" />
+</div>
+
+<br/>
+
+<h3 align="center">📊 Estatísticas e Atividade</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=YakumaKuramy&theme=dracula&hide_border=false" height="150" alt="streak graph" />
