@@ -1,8 +1,12 @@
 <h1 align="center">Hey 👋 Marcos Sousa aqui!</h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Game%20Dev%20Enthusiast-orange?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/-UFC%20Redes%20de%20Computadores-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://marcossousa.itch.io/">
+    <img src="https://img.shields.io/badge/-Game%20Dev%20Enthusiast-orange?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/marcos-sousa-santos/">
+    <img src="https://img.shields.io/badge/-UFC%20Redes%20de%20Computadores-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </div>
 
 <br/>
@@ -13,28 +17,29 @@
 </div>
 
 <div align="center">
-  <a href="https://marcossousa.itch.io/">
-    <img src="https://img.shields.io/static/v1?message=Itch.io&logo=itch.io&label=&color=FA5C5C&logoColor=white&style=for-the-badge" height="35" />
+  <a href="https://marcossousa.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Itch.io-Games-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" style="margin:6px;">
   </a>
-  <a href="https://www.linkedin.com/in/marcos-sousa-santos/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+  <a href="https://www.linkedin.com/in/marcos-sousa-santos/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin:6px;">
   </a>
 </div>
 
 <br/>
+
 <!--
 <h3 align="center">📊 Minha Atividade Semanal (WakaTime)</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcos_Sousa&layout=compact&theme=dracula&v=3" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcos_Sousa&layout=compact&theme=dracula&v=4" alt="Wakatime Stats" />
 </div>
-
 <br/>
 -->
+
 <h3 align="center">🤖 Linguagens e Tecnologias</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,aws,godot,unity,py,cpp" height="50" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,godot,unity,cpp,py" height="50" />
 </div>
 
 <br/>
