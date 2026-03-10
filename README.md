@@ -22,15 +22,15 @@
 </div>
 
 <br/>
-
+<!--
 <h3 align="center">📊 Minha Atividade Semanal (WakaTime)</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcos_Sousa&layout=compact&theme=dracula&v=2" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcos_Sousa&layout=compact&theme=dracula&v=3" alt="Wakatime Stats" />
 </div>
 
 <br/>
-
+-->
 <h3 align="center">🤖 Linguagens e Tecnologias</h3>
 
 <div align="center">
