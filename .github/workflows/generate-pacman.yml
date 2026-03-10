@@ -1,11 +1,8 @@
 name: Generate Pacman Game
 
 on:
-  # Roda automaticamente a cada 24 horas
   schedule:
     - cron: "0 0 * * *" 
-  
-  # Permite rodar manualmente para testar
   workflow_dispatch:
 
 jobs:
@@ -18,7 +15,7 @@ jobs:
       - name: Generate Pacman Graph
         uses: platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: YakumaKuramy
           outputs: |
             dist/pacman-contribution-graph.svg?palette=github-dark&color_snake=yellow&snake=pacman
             dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=yellow&snake=pacman
